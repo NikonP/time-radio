@@ -1,2 +1,2 @@
 # time-radio
-Client for https://radiooooo.app/ . For now only CLI.
+Client for [Radiooooo](https://radiooooo.app/). For now only CLI.
